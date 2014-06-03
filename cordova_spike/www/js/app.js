@@ -12,6 +12,18 @@
     $('.help-btn').on('click', function() {
         alert("Some help here...")
     });
+     document.addEventListener('deviceready', function () {
+        if (navigator.notification) { // Override default HTML alert with native dialog
+            window.alert = function (message) {
+                navigator.notification.alert(
+                    message,    // message
+                    null,       // callback
+                    "Native Message", // title
+                    'OK'        // buttonName
+                );
+            };
+        }
+    }, false);
 
 
     /* ---------------------------------- Local Functions ---------------------------------- */
@@ -27,4 +39,8 @@
         });
     }
 
+
+
+   
+    FastClick.attach(document.body);
 }());
