@@ -158,3 +158,48 @@ You could find it at the following address https://developer.apple.com/icloud/do
 2014-06-03 16:23:20.756 CordovaSpike[6921:70b] Resetting plugins due to page load.
 2014-06-03 16:23:20.801 CordovaSpike[6921:70b] Finished load of: file:///Users/srikanthnutigattu/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5F63459D-968D-470C-8504-14D5A0767F3A/CordovaSpike.app/www/index.html
 2014-06-03 16:23:26.436 CordovaSpike[6921:70b] THREAD WARNING: ['Notification'] took '12.943115' ms. Plugin should use a background thread.
+2014-06-03 16:53:10.934 CordovaSpike[7421:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-03 16:53:10.939 CordovaSpike[7421:70b] Unlimited access to network resources
+2014-06-03 16:53:10.941 CordovaSpike[7421:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-03 16:53:11.087 CordovaSpike[7421:70b] Resetting plugins due to page load.
+2014-06-03 16:53:11.143 CordovaSpike[7421:70b] Finished load of: file:///Users/srikanthnutigattu/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5F63459D-968D-470C-8504-14D5A0767F3A/CordovaSpike.app/www/index.html
+2014-06-03 16:54:18.339 CordovaSpike[7712:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-03 16:54:18.346 CordovaSpike[7712:70b] Unlimited access to network resources
+2014-06-03 16:54:18.348 CordovaSpike[7712:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-03 16:54:18.390 CordovaSpike[7712:70b] Resetting plugins due to page load.
+2014-06-03 16:54:18.424 CordovaSpike[7712:70b] Finished load of: file:///Users/srikanthnutigattu/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/5F63459D-968D-470C-8504-14D5A0767F3A/CordovaSpike.app/www/index.html
+2014-06-03 16:54:40.927 CordovaSpike[7871:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-03 16:54:40.935 CordovaSpike[7871:70b] Unlimited access to network resources
+2014-06-03 16:54:40.937 CordovaSpike[7871:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-03 16:54:41.036 CordovaSpike[7871:70b] Resetting plugins due to page load.
+2014-06-03 16:54:41.105 CordovaSpike[7871:70b] Finished load of: file:///Users/srikanthnutigattu/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FAA588F7-9146-46D5-BC32-CEB72ACD8DD2/CordovaSpike.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-06-03 16:56:33.748 CordovaSpike[8192:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-03 16:56:33.757 CordovaSpike[8192:70b] Unlimited access to network resources
+2014-06-03 16:56:33.759 CordovaSpike[8192:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-06-03 16:56:33.886 CordovaSpike[8192:70b] Resetting plugins due to page load.
+2014-06-03 16:56:33.973 CordovaSpike[8192:70b] Finished load of: file:///Users/srikanthnutigattu/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FAA588F7-9146-46D5-BC32-CEB72ACD8DD2/CordovaSpike.app/www/index.html
